@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rameen Rizwan ^.^</h1>
-<h3 align="center">A passionate Unity Developer,Blender artist and ASP.NET developer!!</h3>
+<h3 align="center">A passionate Unity Developer,Blender artist and Frontend developer!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameenrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="rameenrizwan" /> </p>
 
